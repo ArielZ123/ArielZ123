@@ -11,4 +11,4 @@ _______________________________
   - 📕 - About OverTrue RolePlay is a server with lots modifications, that built on fivem modification the server is for the israeli community witch can be found
   in fivem search "israel".
   The main goal of OverTrue is to bring A new "age" to the community in israel and make the quality better then now.
-  Right now the server is under developments and there is no a sure time for open this project 💼.
+  Right now the server is under developments and there is no a sure time for open this project💼.
