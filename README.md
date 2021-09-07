@@ -1,13 +1,13 @@
 ### Hi there good to see you👋
 _______________________________
-- 🔭 I’m currently working on: OverTrue RolePlay
+- 🔭 I’m currently working on: OverTrue RolePlay.
 - 🌱 I’m currently learning: lua and html at my free time.
-- ⚡ good to know: we learn from mistakes and grow up from them, dont be scared to make mistakes
+- ⚡ good to know: we learn from mistakes and grow up from them, dont be scared to make mistakes.
  _______________________________
  
 ![OverTrueRPdesign3](https://user-images.githubusercontent.com/74502022/128203082-bcaa2095-6193-4d3c-8b32-e5fd7ade3b00.png)
 
- - ⚙️ Coding & Remaking scripts for fivem using most of the time ESX FrameWork
+ - ⚙️ Coding & Remaking scripts for fivem using most of the time ESX FrameWork.
  _______________________________
   - 📕 - About OverTrue RolePlay: OverTrue RolePlay is a server with lots modifications, that built on fivem modification the server is for the israeli community witch can be found
   in fivem search "israel".
