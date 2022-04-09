@@ -5,5 +5,3 @@
 
 <img align = 'left' src='https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white' />
 <img align = 'left' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' />
-
-Hi
