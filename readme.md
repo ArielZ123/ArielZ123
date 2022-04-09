@@ -1,6 +1,6 @@
 # Hi there, I'm ArielZ 🤙
 
-soon.......
+soon........
 
 #
 <img align = 'left' width= '47%' src="https://github-readme-stats.vercel.app/api?username=ArielZ123&show_icons=true&theme=merko" />
