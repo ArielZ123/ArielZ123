@@ -6,7 +6,7 @@ Now i am focusing on publish some of the systems that i made for OverTrue RolePl
 
 # Note📋:
 I am asking from you that if you see any problems with my codes / scripts that I publish keep in touch with me on my discord: 𝓐𝓻𝓲𝓮𝓵𝓩#5022
-Or if you cant DM me send me your discord name in the forums and i will be happy to help / learn / fix everything.
+or if you cant DM me send me your discord name in the forums and i will be happy to help / learn / fix everything.
 I am new and open to learn from everyone.
 
 #
