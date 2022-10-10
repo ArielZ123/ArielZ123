@@ -9,7 +9,7 @@ I am asking from you that if you see any problems with my codes / scripts that I
 or if you cant DM me send me your discord name in the fivem forums and i will be happy to help / learn / fix everything.
 I am new and open to learn from everyone.
 #
-# Information Icons:
+# Information Icons📌:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArielZ123)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCedmPaJl12Cs2MZ9v6yHYAQ)  
